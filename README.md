@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @sdr-ath0
-- 👀 I’m interested in Internet
-- 🌱 I’m currently learning OSINT
-- 💞️ I’m looking to collaborate: I'm in (perpetual) learning process!
 - 📫 How to reach me github.20.sdr@spamgourmet.com
 
 <!---
