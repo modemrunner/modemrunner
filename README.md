@@ -1,5 +1,4 @@
 - 📫 How to reach me github.20.sdr@spamgourmet.com
-- twitter: https://twitter.com/modemrunner
 
 <!---
 sdr-ath0/sdr-ath0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
